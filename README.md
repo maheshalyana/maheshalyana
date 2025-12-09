@@ -1,41 +1,84 @@
-### Hi there 👋
-Old Account:- https://github.com/Mahesh-Alyana
+# Hi there 👋
 
-
-- 🌱 I’m currently learning rubyonrails
-- 🤔 I’m looking for help with chef (ruby)
-- 💬 Ask me about flutter
-- 📫 How to reach me: alianamahesh@gmail.com
-- Know me at https://www.mahesh-alyana.tech/
-
-# Welcome to My World of Innovation and Code Magic! ✨🚀
+### I'm **Mahesh Alyana** — Product Dev, and Full-Stack Engineer building AI-powered products that scale 🚀
 
 ## About Me
-👋 Hi there! I'm Mahesh Alyana, a passionate and driven software engineer, and I'm thrilled to have you in my GitHub universe! 🌌
 
-🎓 Currently pursuing my Bachelor's degree in Computer Science at B V Raju Institute of Technology, I'm on a quest to explore the limitless possibilities of technology and create groundbreaking solutions that make a real difference in the world. 🌍
+I'm a technologist and product builder passionate about creating high-impact systems at the intersection of **AI, product engineering, and automation**. As the **Product Developer of Pyrite Technologies**, I architect and ship scalable products used by real customers, while also experimenting with new ideas across mobile, web, and AI systems.
 
-## Coding is My Art, Innovation is My Muse 💻🎨
-I believe that coding is not just lines of text; it's an art form that empowers us to create wonders! 🎨 Embracing full-stack development, I have developed proficiency in a wide range of languages and frameworks, crafting seamless and user-friendly experiences that leave a lasting impact. 🌟
+I love transforming complex problems into elegant, production-ready solutions — whether that is a full-stack application, a scalable cloud system, or an AI automation workflow.
 
-## Unleashing the Power of AI and ML 🤖💡
-Fascinated by the realm of Artificial Intelligence and Machine Learning, I've ventured into the world of predictive analytics and smart algorithms. With an accuracy rate of 97%, my machine learning model can forecast the best crops to grow across the country. Let's predict the future together! 🔮
+---
 
-## Mobile Apps with Heart and Soul 📱❤️
-Mobile app development is where I find my true passion. From designing and implementing innovative apps to connecting blood donors with recipients, every line of code is driven by a desire to positively impact lives. Let's create apps that change the world! 🚀
+## What I Work On
 
-## Hacking My Way to Excellence 💡🔐
-Hackathons are my playground for innovation and pushing boundaries. As a 6th runner-up in the Intel oneApi Hackathon and a finalist at IITM RP IC's Student Hackathon, I've honed my skills to build ingenious solutions under pressure. The thrill of the hack drives me forward! 💥
+* **GazeSEO (formerly Vaultory)** – Leading development of an AI-powered RAG/LLM system that generates personalized SEO content for businesses.
+* **Fotos** – My startup project simplifying the photographer workflow with Magic Uploads, galleries, and client management.
+* **Automation Tooling** – Heavy usage of **n8n**, AI agents, internal developer tooling, and workflow automation.
+* **YouTube** – Building multiple AI-driven content channels and educational content around AI and tech.
 
-## Building the Future with Emerging Tech 🚀🌌
-With a keen eye on the future, I'm fascinated by emerging technologies like Quantum Computing and Blockchain. Let's explore the uncharted territories of technology and reshape the world as we know it! 🌌
+---
 
-## Let's Create Tech Magic Together! ✨🤝
-I'm always on the lookout for exciting collaborations and projects. Whether you're a fellow developer, an innovator, or a dreamer like me, let's join forces and bring our ideas to life! 🤗
+## Technical Expertise
 
-### Connect with Me 🌐
-📧 Email: alianamahesh@gmail.com
-🌐 LinkedIn: [Mahesh Alyana](https://www.linkedin.com/in/mahesh-alyana/)
-🌐 GitHub: [Mahesh-Alyana](https://github.com/Mahesh-Alyana)
+### **Full-Stack Development**
 
-Looking forward to embarking on this incredible coding journey together! Let's make some tech magic! 🚀🌟
+* JavaScript, TypeScript, Python, Ruby, Dart
+* Node.js, Django, Ruby on Rails
+* React.js, Next.js, Flutter
+* REST APIs, real-time systems, authentication, caching
+
+### **Cloud & DevOps**
+
+* AWS (EC2, RDS, S3, CloudFront)
+* Docker, CI/CD pipelines
+* Monitoring, performance optimization, security hardening
+
+### **Databases**
+
+* PostgreSQL, MySQL, MongoDB, Firebase
+
+### **AI & ML**
+
+* LLM integrations, RAG architectures, prompt engineering
+* Automation using n8n, custom AI agents
+* AI-powered analytics and content generation pipelines
+
+---
+
+## Previous Highlights
+
+* Built multiple production mobile and web apps.
+* Designed a machine-learning model with **97% accuracy** for agricultural prediction (early academic project).
+* Hackathon achievements:
+
+  * 6th Runner-up – **Intel oneAPI Hackathon**
+  * Finalist – **IITM RP IC Student Hackathon**
+
+---
+
+## Currently Exploring
+
+* Scaling AI-driven products for real businesses
+* Advanced workflow automation
+* Efficient product development systems
+* Creator-tech (YouTube + AI avatars + automated content engines)
+
+---
+
+## Ask Me About
+
+* LLM's, AI Agents, RAG, Next.js, Flutter, AWS
+* AI automation (n8n, agents, workflow systems)
+* Building and shipping full-stack products
+* Scalable backend architecture
+
+---
+
+## How to Reach Me
+
+📧 Email: **[alianamahesh@gmail.com](mailto:alianamahesh@gmail.com)**
+🔗 LinkedIn: **[https://www.linkedin.com/in/mahesh-alyana/](https://www.linkedin.com/in/mahesh-alyana/)**
+💻 GitHub: **[https://github.com/Mahesh-Alyana](https://github.com/Mahesh-Alyana)**
+
+---
