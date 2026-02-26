@@ -8,11 +8,13 @@ I'm a technologist and product builder passionate about creating high-impact sys
 
 I love transforming complex problems into elegant, production-ready solutions — whether that is a full-stack application, a scalable cloud system, or an AI automation workflow.
 
+Old Account:- https://github.com/Mahesh-Alyana
+
 ---
 
 ## What I Work On
 
-* **GazeSEO (formerly Vaultory)** – Leading development of an AI-powered RAG/LLM system that generates personalized SEO content for businesses.
+* **SEO Platform** – Leading development of an AI-powered RAG/LLM system that generates personalized SEO content for businesses.
 * **Fotos** – My startup project simplifying the photographer workflow with Magic Uploads, galleries, and client management.
 * **Automation Tooling** – Heavy usage of **n8n**, AI agents, internal developer tooling, and workflow automation.
 * **YouTube** – Building multiple AI-driven content channels and educational content around AI and tech.
